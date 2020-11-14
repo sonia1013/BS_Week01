@@ -1,0 +1,7 @@
+C:\Users\micca\Desktop\HW_Week01-1\OddEven_Sort\bin\Debug\OddEven_Sort.exe.config
+C:\Users\micca\Desktop\HW_Week01-1\OddEven_Sort\bin\Debug\OddEven_Sort.exe
+C:\Users\micca\Desktop\HW_Week01-1\OddEven_Sort\bin\Debug\OddEven_Sort.pdb
+C:\Users\micca\Desktop\HW_Week01-1\OddEven_Sort\obj\Debug\OddEven_Sort.csprojAssemblyReference.cache
+C:\Users\micca\Desktop\HW_Week01-1\OddEven_Sort\obj\Debug\OddEven_Sort.csproj.CoreCompileInputs.cache
+C:\Users\micca\Desktop\HW_Week01-1\OddEven_Sort\obj\Debug\OddEven_Sort.exe
+C:\Users\micca\Desktop\HW_Week01-1\OddEven_Sort\obj\Debug\OddEven_Sort.pdb

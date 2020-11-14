@@ -1,0 +1,7 @@
+C:\Users\micca\Desktop\HW_Week01-1\InvertForLoop\bin\Debug\InvertForLoop.exe.config
+C:\Users\micca\Desktop\HW_Week01-1\InvertForLoop\bin\Debug\InvertForLoop.exe
+C:\Users\micca\Desktop\HW_Week01-1\InvertForLoop\bin\Debug\InvertForLoop.pdb
+C:\Users\micca\Desktop\HW_Week01-1\InvertForLoop\obj\Debug\InvertForLoop.csproj.CoreCompileInputs.cache
+C:\Users\micca\Desktop\HW_Week01-1\InvertForLoop\obj\Debug\InvertForLoop.exe
+C:\Users\micca\Desktop\HW_Week01-1\InvertForLoop\obj\Debug\InvertForLoop.pdb
+C:\Users\micca\Desktop\HW_Week01-1\InvertForLoop\obj\Debug\InvertForLoop.csprojAssemblyReference.cache
