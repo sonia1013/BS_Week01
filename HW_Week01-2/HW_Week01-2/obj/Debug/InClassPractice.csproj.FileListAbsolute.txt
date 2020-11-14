@@ -1,0 +1,10 @@
+C:\Users\micca\Desktop\HW_Week01-2\HW_Week01-2\bin\Debug\HW_Week01-2.exe.config
+C:\Users\micca\Desktop\HW_Week01-2\HW_Week01-2\bin\Debug\HW_Week01-2.exe
+C:\Users\micca\Desktop\HW_Week01-2\HW_Week01-2\bin\Debug\HW_Week01-2.pdb
+C:\Users\micca\Desktop\HW_Week01-2\HW_Week01-2\obj\Debug\InClassPractice.csprojAssemblyReference.cache
+C:\Users\micca\Desktop\HW_Week01-2\HW_Week01-2\obj\Debug\HW_Week01_2.Form1.resources
+C:\Users\micca\Desktop\HW_Week01-2\HW_Week01-2\obj\Debug\HW_Week01_2.Properties.Resources.resources
+C:\Users\micca\Desktop\HW_Week01-2\HW_Week01-2\obj\Debug\InClassPractice.csproj.GenerateResource.cache
+C:\Users\micca\Desktop\HW_Week01-2\HW_Week01-2\obj\Debug\InClassPractice.csproj.CoreCompileInputs.cache
+C:\Users\micca\Desktop\HW_Week01-2\HW_Week01-2\obj\Debug\HW_Week01-2.exe
+C:\Users\micca\Desktop\HW_Week01-2\HW_Week01-2\obj\Debug\HW_Week01-2.pdb
