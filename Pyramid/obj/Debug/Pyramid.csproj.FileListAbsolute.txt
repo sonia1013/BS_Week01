@@ -1,7 +1,0 @@
-C:\Users\micca\Desktop\HW_Week01-1\Pyramid\bin\Debug\Pyramid.exe.config
-C:\Users\micca\Desktop\HW_Week01-1\Pyramid\bin\Debug\Pyramid.exe
-C:\Users\micca\Desktop\HW_Week01-1\Pyramid\bin\Debug\Pyramid.pdb
-C:\Users\micca\Desktop\HW_Week01-1\Pyramid\obj\Debug\Pyramid.csprojAssemblyReference.cache
-C:\Users\micca\Desktop\HW_Week01-1\Pyramid\obj\Debug\Pyramid.csproj.CoreCompileInputs.cache
-C:\Users\micca\Desktop\HW_Week01-1\Pyramid\obj\Debug\Pyramid.exe
-C:\Users\micca\Desktop\HW_Week01-1\Pyramid\obj\Debug\Pyramid.pdb

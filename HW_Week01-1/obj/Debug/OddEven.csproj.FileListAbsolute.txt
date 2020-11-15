@@ -1,7 +1,0 @@
-C:\Users\micca\Desktop\HW_Week01-1\HW_Week01-1\bin\Debug\HW_Week01-1.exe.config
-C:\Users\micca\Desktop\HW_Week01-1\HW_Week01-1\bin\Debug\HW_Week01-1.exe
-C:\Users\micca\Desktop\HW_Week01-1\HW_Week01-1\bin\Debug\HW_Week01-1.pdb
-C:\Users\micca\Desktop\HW_Week01-1\HW_Week01-1\obj\Debug\OddEven.csprojAssemblyReference.cache
-C:\Users\micca\Desktop\HW_Week01-1\HW_Week01-1\obj\Debug\OddEven.csproj.CoreCompileInputs.cache
-C:\Users\micca\Desktop\HW_Week01-1\HW_Week01-1\obj\Debug\HW_Week01-1.exe
-C:\Users\micca\Desktop\HW_Week01-1\HW_Week01-1\obj\Debug\HW_Week01-1.pdb

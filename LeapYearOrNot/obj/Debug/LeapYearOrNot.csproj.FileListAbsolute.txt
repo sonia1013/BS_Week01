@@ -1,6 +1,0 @@
-C:\Users\micca\Desktop\HW_Week01-1\LeapYearOrNot\bin\Debug\LeapYearOrNot.exe.config
-C:\Users\micca\Desktop\HW_Week01-1\LeapYearOrNot\bin\Debug\LeapYearOrNot.exe
-C:\Users\micca\Desktop\HW_Week01-1\LeapYearOrNot\bin\Debug\LeapYearOrNot.pdb
-C:\Users\micca\Desktop\HW_Week01-1\LeapYearOrNot\obj\Debug\LeapYearOrNot.csproj.CoreCompileInputs.cache
-C:\Users\micca\Desktop\HW_Week01-1\LeapYearOrNot\obj\Debug\LeapYearOrNot.exe
-C:\Users\micca\Desktop\HW_Week01-1\LeapYearOrNot\obj\Debug\LeapYearOrNot.pdb
